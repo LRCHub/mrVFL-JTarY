@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "SO BAD",
+  "base_artist": "Kelly is Green",
+  "createdAt": "2025-12-01T05:29:58.001928Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hurt So Bad",
+      "artist": "Jaime Wyatt feat. Shooter Jennings",
+      "has_synced": true,
+      "path": "select/01_Hurt_So_Bad_Jaime_Wyatt_feat._Shooter_Jennings.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hurt So Bad",
+      "artist": "Jaime Wyatt",
+      "has_synced": true,
+      "path": "select/02_Hurt_So_Bad_Jaime_Wyatt.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "So Bad",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/03_So_Bad_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "When It Hurts so Bad",
+      "artist": "Lauryn Hill",
+      "has_synced": true,
+      "path": "select/04_When_It_Hurts_so_Bad_Lauryn_Hill.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Need You So Bad",
+      "artist": "Magic Sam",
+      "has_synced": true,
+      "path": "select/05_I_Need_You_So_Bad_Magic_Sam.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Why Does My Heart Feel so Bad?",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/06_Why_Does_My_Heart_Feel_so_Bad_Moby.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Why Does My Heart Feel So Bad?",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/07_Why_Does_My_Heart_Feel_So_Bad_Moby.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Why Does My Heart Feel So Bad? (Radio Edit)",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/08_Why_Does_My_Heart_Feel_So_Bad__(Radio_Edit)_Moby.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Want You So Bad",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/09_I_Want_You_So_Bad_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Want You So Bad",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/10_I_Want_You_So_Bad_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Need Your Love So Bad",
+      "artist": "B.B. King feat. Sheryl Crow",
+      "has_synced": false,
+      "path": "select/11_Need_Your_Love_So_Bad_B.B._King_feat._Sheryl_Crow.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Need Your Love So Bad (With Sheryl Crow)",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/12_Need_Your_Love_So_Bad_(With_Sheryl_Crow)_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Feel So Bad",
+      "artist": "Elvis Presley",
+      "has_synced": false,
+      "path": "select/13_I_Feel_So_Bad_Elvis_Presley.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Need Your Love so Bad",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/14_Need_Your_Love_so_Bad_Fleetwood_Mac.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Need Your Love So Bad",
+      "artist": "Robert Palmer",
+      "has_synced": false,
+      "path": "select/15_I_Need_Your_Love_So_Bad_Robert_Palmer.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "It Hurts So Bad",
+      "artist": "Kim Carnes",
+      "has_synced": false,
+      "path": "select/16_It_Hurts_So_Bad_Kim_Carnes.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Need Your Love So Bad",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/17_Need_Your_Love_So_Bad_Fleetwood_Mac.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "So Bad",
+      "artist": "2PM",
+      "has_synced": false,
+      "path": "select/pl_01_So_Bad_2PM.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "So Bad Boy",
+      "artist": "2PM",
+      "has_synced": false,
+      "path": "select/pl_02_So_Bad_Boy_2PM.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "So Bad",
+      "artist": "2PM",
+      "has_synced": false,
+      "path": "select/pl_03_So_Bad_2PM.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "So Bad",
+      "artist": "2PM",
+      "has_synced": false,
+      "path": "select/pl_04_So_Bad_2PM.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "So Bad",
+      "artist": "2PM",
+      "has_synced": false,
+      "path": "select/pl_05_So_Bad_2PM.txt"
+    }
+  ]
+}
