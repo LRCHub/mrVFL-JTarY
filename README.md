@@ -1,0 +1,51 @@
+# Kelly is Green – SO BAD
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Sorry, I did it again.
+I promised I'll never call. but.. but..
+何度もためらって… その笑顔消えなくて
+手にした携帯 置いてまた手が伸びる
+ごめん…約束 守れない僕さ
+二度と電話をしない誓い この指が破るよ
+Because,
+Tonight I really want you baby
+Tonight I really want you baby
+Tonight I really want you baby
+So bad×3 (So bad×2)
+迷惑そうな声 みじめな僕の声
+受話器から冷たい 風が胸凍らす
+わかっているよ やり直せない
+苦しくて切ろうとしても どうしても切れないよ
+Tonight I really want you baby (baby)
+Tonight I really want you baby (yeah)
+Tonight I really want you baby
+So bad×3 (So bad×2)
+Tonight I really need you baby (I need you)
+Tonight I really need you baby (baby)
+Tonight I really need you baby
+So bad×3 (So bad×2)
+砕け散って散って
+落ちるpictureを眺める
+もし元に戻らないストーリーならば今なお
+頑なに無理しながら平気なふりして
+ダイヤルに触れそう
+何て言ったって蓋を開けてみれば約束破りのphone
+絶えず何だかんだどうしても未だ
+Nobody can change who we are ほら
+I know that 君こそが唯一の女
+いいもんだ出逢えた事 神様感謝
+全てが終わってしまっても
+You're gonna be in my head
+離す事出来ない心の手
+(Tonight) Tonight I really want you baby (baby)
+Tonight I really want you baby (Tonight)
+Tonight I really want you baby
+So bad×3 (So bad×2)
+Tonight I really need you baby
+(Right now, I need you)
+Tonight I really need you baby (Yes, I do)
+Tonight I really need you baby (Need you baby)
+So bad×3 (So bad×2)
+```
